@@ -1,3 +1,8 @@
-venv
-.vscode
-output.html
+# Ignore compiled Python files
+*.pyc
+
+# Ignore virtual environment directory
+venv/
+
+# Ignore log files
+*.log
